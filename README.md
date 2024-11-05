@@ -1,8 +1,6 @@
 <div> 
 	<a href="https://github.com/juwenzhang" target="_blank"><img src="https://img.shields.io/badge/github-juwenzhang-%23f52020?style=flat-square"/></a>    
 </div>
-<iframe src="https://juejin.cn/user/3877322821505440/posts" height="800px"></iframe>
-
 
 ***
 
