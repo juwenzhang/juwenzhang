@@ -3,7 +3,7 @@
             <h2 style="color: rgba(155, 128, 128, 0.3); text-align: center">
                 MY NAME IS JUWENZHANG!!! THIS IS MY GITHUB!!!
             </h2>
-            <div>
+            <div style="width：80%">
               I have always been deeply grateful to someone who guided me onto the path of learning front-end development. Along my journey, he has provided immense support and help. I am sincerely very thankful to him. Even after I left the organization we were part of, he still encouraged me to continue with front-end development. Perhaps it was this encouragement that kept me going until now!!! I truly appreciate him!!
             </div>  
         </div>
