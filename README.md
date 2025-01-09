@@ -17,15 +17,15 @@
 <h4>My development framework</h4>
 
 > * **Front-end**
->   * **Vue3** & **React** & **Angular** & **Uniapp** & **Taro** & **WeChat Mini Program Developer**
+>   * **Vue3** & **React** & **Angular** & **Uniapp** & **Taro** & **WeChat Mini Program Developer** & **qiankun**
 > * **NodeJs**
->   * **ExpressJS** & **KoaJS** **HapiJS**
+>   * **ExpressJS** & **KoaJS** & **HapiJS**
 > * **Python**
->   * **Django** & **Flask** & **Tornade** & **Scrapy** & **Selenium**
+>   * **Django** & **Flask** & **Tornade** & **Scrapy** & **Selenium** & **DjangoRestFrameWork**
+> * **Java**
+>   * **Spring** & **springboot** & **springcloud**
 > * **C++**
 >   * **QT**
-> * **Java**
->   * **Spring**
 
 <h4>My Personal Introdece</h4>
 
@@ -38,3 +38,7 @@
 <h4>My temporary blog website</h4>
 
 > If you want to learn about my **[blog website](https://juejin.cn/user/3877322821505440/posts)**, you can access it
+
+#### Recently work-direction
+
+> Main In Rust And Golang.In the same time,plan to get my first work place.Next step, I want to become a client-end developer lover and Technical experts. I am working in building my private blog-site.Technical stack is springclod and qiankun.It is public util it is developed completely in future,but not now!!!
