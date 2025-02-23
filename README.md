@@ -1,6 +1,6 @@
 ### Here is Juwenzhang' github
 
-#### My infomations
+#### My informations
 
 > * vitepress ssg : https://juwenzhang.github.io/juwenzhang_ssg/.
 > * My technical stack: python | frontEnd | golang | java | rust.
