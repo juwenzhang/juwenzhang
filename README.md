@@ -2,33 +2,21 @@
 
 #### My informations
 
-> * vitepress ssg : https://juwenzhang.github.io/juwenzhang_ssg/.
-> * My technical stack: python | frontEnd | golang | java | rust.
-> * Current work: Main in @ByteDance.
-> * My relations:
->   * QQ: 3137536916
->   * Email：3137536916@qq.com
->   * Winxin: 17323451211
+ * vitepress ssg : https://juwenzhang.github.io/juwenzhang_ssg/.
+ * Current work: Main in @ByteDance.
+ * My relations:
+   * QQ: 3137536916
+   * Email：3137536916@qq.com
+   * Winxin: 17323451211
 
-#### My development framework
+#### Current Status
 
-> * front-end
->   * **react (mainly)  | taro(mainly) | solid(mainly) | react-native(mainly) | nextjs(mainly) | Typescript(more)**
->   * vue3 (less) | | svelte(less) | uniapp(less) | weex(less) | nuxtjs(less) | javascript(less)
->   * **microapp | single-spa | qiankun [mainly]**
-> * NodeJs
->   * express | koa | fastify | deno(studying)
-> * Python
->   * drf | flask | fastapi(studying) | sanic(studying)
-> * Java
->   * spring | springBoot | springMvc | springCloud(not fimilar)
-> * Golang
->   * gin | hertz (studying)
-> * Rust
->   * volo (studying)
+* work in @bytedance/AGI-JUEJIN
+  * studying rust, golang, microapp and how to become a infra-developer   
 
-#### You Can Learn From Me
+#### Other Info About Me
 
-> * front-end : This Is My Main in Working 
-> * Rust: Rust realises wsam!!!
-> * Golang | Python | Java: Realizing easily backend' appliaction interface to client's developer to use.
+* [juejin](https://juejin.cn/user/3877322821505440) | [my website-ssg](https://juwenzhang.github.io/juwenzhang_ssg/) | [my github](https://github.com/juwenzhang)
+
+#### My mainly use language
+* JavaScript | Typescript | Python | Rust | Golang 
