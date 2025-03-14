@@ -2,8 +2,8 @@
 
 #### My informations
 
- * vitepress ssg : https://juwenzhang.github.io/juwenzhang_ssg/.
- * Current work: Main in @ByteDance.
+ * vitepress ssg🚀🚀🚀 : https://juwenzhang.github.io/juwenzhang_ssg/.
+ * Current work🚀🚀🚀: Main in @ByteDance.
  * My relations:
    * QQ: 3137536916
    * Email：3137536916@qq.com
