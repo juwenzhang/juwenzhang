@@ -17,7 +17,7 @@
 
 * 2025.1.10 - 2025.4.10【三个月】
   * 北京北比信息技术有限公司【ByteDance】
-  * 稀土掘金开发社区
+  * 稀土掘金开发社区   
 
 #### Mainly Work Direction
 
@@ -29,7 +29,7 @@
   * **react**（mainly）| vue（mainly）【single-page-application】
   * **nextjs**（react-ssr）| nuxtjs（vue-ssr）【server-side-render】
   * **taro**（mainly） | uniapp（less）【mini-application】
-  * **gerfish** | qiankun 【micro-app】
+  * **garfish** | qiankun 【micro-app】
   * **koa**（mainly）|  express（less）【nodejs】
 * other-info about me
   * flutter | react-native | django-reatframework | fastapi | springboot ...
