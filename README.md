@@ -10,35 +10,8 @@
    * Email：3137536916@qq.com
    * Winxin: 17323451211
 
-#### Work Progress
+### Other
+* main in flutter, ssr, microapp, front-end
 
-* current
-  * 备战pdd中……
-
-* 2025.1.10 - 2025.4.10【三个月】
-  * 北京北比信息技术有限公司【ByteDance】
-  * 稀土掘金开发社区   
-
-#### Mainly Work Direction
-
-* front-end Web (PC OR Mobile)
-
-#### Useing Technology Stack
-
-* **front-end**
-  * **react**（mainly）| vue（mainly）【single-page-application】
-  * **nextjs**（react-ssr）| nuxtjs（vue-ssr）【server-side-render】
-  * **taro**（mainly） | uniapp（less）【mini-application】
-  * **garfish** | qiankun 【micro-app】
-  * **koa**（mainly）|  express（less）【nodejs】
-* other-info about me
-  * flutter | react-native | django-reatframework | fastapi | springboot ...
-
-#### My Mainly use language
-* JavaScript | Typescript | Python | Rust | Golang 
-
-#### My School Organization
-
-* **RedRock**-Front-End Department
-* **CquptHub**-Front-End Department
-* **LiteyukiStudio**-Front-End Department
+### Mainly Use Language
+* Typescript, Dart, Rust, Python
