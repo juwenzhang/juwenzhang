@@ -15,3 +15,8 @@
 
 ### Mainly Use Language
 * Typescript, Dart, Rust, Python
+
+### Recently Working
+* open-source-developer！！
+* explore infra-developer！！
+* studying designMode and Software Architecture！！
