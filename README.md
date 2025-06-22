@@ -21,3 +21,5 @@
 * open-source-developer！！
 * explore infra-developer！！
 * studying designMode and Software Architecture！！
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwenzhang&layout=compact&langs_count=8&theme=tokyonight)
