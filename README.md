@@ -23,3 +23,5 @@
 * studying designMode and Software Architecture！！
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwenzhang&layout=compact&langs_count=30&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&token=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&hide_progress=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juwenzhang&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&token=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)
